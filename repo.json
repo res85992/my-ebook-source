@@ -1,0 +1,15 @@
+{
+  "type": "ebook",
+  "name": "My Ebook Repo",
+  "plugins": [
+    {
+      "id": "atirbooks",
+      "name": "مكتبة الأثير",
+      "version": "1.0.1",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://atirbooks.com/wp-content/uploads/2025/04/favicon-website.png",
+      "entry": "atirbooks.plugin.js"
+    }
+  ]
+}
